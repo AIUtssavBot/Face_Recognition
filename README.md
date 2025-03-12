@@ -1,7 +1,5 @@
 # Face Recognition Project
 
-![Face Recognition](https://your-image-url.com)
-
 ## 🚀 Overview
 This project implements a **Face Recognition System** using advanced deep learning techniques. It can detect, recognize, and verify faces in real time.
 
